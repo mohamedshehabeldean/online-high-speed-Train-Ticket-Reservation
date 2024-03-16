@@ -1,4 +1,4 @@
-![image](https://github.com/mohamedshehabeldean/online-high-speed-Train-Ticket-Reservation/assets/104523670/8f21de0e-046d-48d1-a4ae-1ea9cac55683)# online-high-speed-Train-Ticket-Reservation
+# online-high-speed-Train-Ticket-Reservation
 wirefram of online high  speed Train Ticket Reservation system using Balsamiq
 the design of this system follow Eight Golden Role
 ## the Eight Golden Rule
