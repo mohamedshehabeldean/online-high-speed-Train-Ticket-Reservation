@@ -1,6 +1,6 @@
 # online-high-speed-Train-Ticket-Reservation
 this project is a wirefram of online high  speed Train Ticket Reservation system using Balsamiq
-the design of this system follow Eight Golden Role
+that follow Eight Golden Role.
 ## the Eight Golden Rule
 1. Strive for consistency.
 Consistent sequences of actions should be required in similar situations;
