@@ -1,5 +1,5 @@
 # online-high-speed-Train-Ticket-Reservation
-wirefram of online high  speed Train Ticket Reservation system using Balsamiq
+this project is a wirefram of online high  speed Train Ticket Reservation system using Balsamiq
 the design of this system follow Eight Golden Role
 ## the Eight Golden Rule
 1. Strive for consistency.
