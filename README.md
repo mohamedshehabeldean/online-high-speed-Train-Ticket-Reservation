@@ -2,7 +2,7 @@
 this project is a wirefram of online high  speed Train Ticket Reservation system using Balsamiq
 that follow Eight Golden Role.
 ## the Eight Golden Rule
-1. Strive for consistency.
+- 1. Strive for consistency.
 Consistent sequences of actions should be required in similar situations;
 identical terminology should be used in prompts, menus, and help screens;
 and consistent color, layout, capitalization, fonts, and so on, should be
