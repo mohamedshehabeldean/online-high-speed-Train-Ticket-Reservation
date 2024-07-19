@@ -77,7 +77,11 @@ compacted to fit a single display.
 
 
 ## the video of the system :
-  https://drive.google.com/file/d/1BnnIWv8gA4oyofIWNNgDWOgtxUFzogh8/view?usp=drivesdk
+
+  * the video of the system is  [click here](  https://drive.google.com/file/d/1BnnIWv8gA4oyofIWNNgDWOgtxUFzogh8/view?usp=drivesdk
+)
+> [!NOTE]
+> Feel free to reach out if you'd like to learn more about our project or explore potential collaborations.
 
 
 
