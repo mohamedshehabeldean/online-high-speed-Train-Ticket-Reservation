@@ -14,20 +14,20 @@ and limited in number.
 
 ![image](https://github.com/mohamedshehabeldean/online-high-speed-Train-Ticket-Reservation/assets/104523670/e3598f9c-bbb6-4808-9595-d3ed6e2a6b22)
 
-2. Seek universal usability.
+- 2. Seek universal usability.
 Recognize the needs of diverse users and design for plasticity, facilitating
 transformation of content. Novice to expert differences, age ranges,
 disabilities, international variations, and technological diversity each enrich
 the spectrum of requirements that guides design. Adding features for
 novices, such as explanations, and features for experts, such as shortcuts and
 faster pacing, enriches the interface design and improves perceived qualit
-3. Offer informative feedback.
+- 3. Offer informative feedback.
 • For every user action, there should be an interface feedback. For
 frequent and minor actions, the response can be modest, whereas for
 infrequent and major actions, the response should be more substantial.
 Visual presentation of the objects of interest provides a convenient
 environment for showing changes explicitly.
-4. Design dialogs to yield closure.
+- 4. Design dialogs to yield closure.
 • Sequences of actions should be organized into groups with a beginning,
 middle, and end. Informative feedback at the completion of a group of
 actions gives users the satisfaction of accomplishment, a sense of relief, a
@@ -40,7 +40,7 @@ something like this: "Thank you for purchasing with us."
 
 ![image](https://github.com/mohamedshehabeldean/online-high-speed-Train-Ticket-Reservation/assets/104523670/504cc073-a8f3-46fa-b83d-c46d2eb28846)
 
-5. Prevent errors.
+- 5. Prevent errors.
 • As much as possible, design the interface so that users cannot make serious
 errors; for example, gray out menu items that are not appropriate and do
 not allow alphabetic characters in numeric entry fields. If users make an
@@ -52,21 +52,21 @@ interface state unchanged, or the interface should give instructions about
 restoring the state.
 ![image](https://github.com/mohamedshehabeldean/online-high-speed-Train-Ticket-Reservation/assets/104523670/71799809-b0e5-4361-a646-fc85e42c2b09)
 
-6. Permit easy reversal of actions.
+- 6. Permit easy reversal of actions.
 • As much as possible, actions should be reversible. This feature relieves
 anxiety, since users know that errors can be undone, and encourages
 exploration of unfamiliar options
 • Examples of reversible actions are data entry tasks, the complete
 group of actions like entering the name and address block, etc.
 
-7.Keep users in control.
+- 7.Keep users in control.
 • Experienced users strongly desire the sense that they are in charge of
 the interface and that the interface responds to their actions. They don’t
 want surprises or changes in familiar behavior, and they are annoyed by
 tedious data-entry sequences, difficulty in obtaining necessary
 information, and inability to produce their desired result.
 
-8. Reduce short-term memory load.
+- 8. Reduce short-term memory load.
 Humans’ limited capacity for information processing in short-term memory (the
 rule of thumb is that people can remember “seven plus or minus two chunks” of
 information) requires that designers avoid interfaces in which users must
