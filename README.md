@@ -59,7 +59,7 @@ exploration of unfamiliar options
 • Examples of reversible actions are data entry tasks, the complete
 group of actions like entering the name and address block, etc.
 
-- 7.Keep users in control.
+ 7.Keep users in control.
 • Experienced users strongly desire the sense that they are in charge of
 the interface and that the interface responds to their actions. They don’t
 want surprises or changes in familiar behavior, and they are annoyed by
